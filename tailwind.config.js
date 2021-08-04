@@ -9,6 +9,10 @@ module.exports = {
           100: '#E2E2D5',
           200: '#888883',
         }
+      },
+      fontFamly: {
+        extra: ['Georama'],
+        hawa: ['Palette Mosaic'],
       }
     },
   },
